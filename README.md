@@ -1,6 +1,4 @@
-Certainly! Here's your GitHub README file with improved alignment:
 
-```markdown
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -61,6 +59,3 @@ Certainly! Here's your GitHub README file with improved alignment:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskaarz&show_icons=true&locale=en" alt="sanskaarz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaarz&" alt="sanskaarz" /></p>
-```
-
-This should improve the overall alignment and visual appearance of your README file. Feel free to adjust further based on your preferences.
