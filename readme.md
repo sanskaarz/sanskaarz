@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi 👋, I'm Sanskar Gupta<br>A passionate developer from India.<br>🔭 I’m currently working at Instep Technologies<br>🌱 I’m currently learning Cloud and Development.<br>👨‍💻 All of my profiles are available at [https://sanskaarz.carrd.co/](https://sanskaarz.carrd.co/)<br>📫 How to reach me sanskar786g@gmail.com, @sanskaarz
+<h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskaarz&label=Profile%20views&color=0e75b6&style=flat" alt="sanskaarz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaarz" alt="sanskaarz" /></a> </p>
+
+- 🔭 I’m currently working at **Instep Technologies**
+
+- 🌱 I’m currently learning **Cloud and Development.**
+
+- 👨‍💻 All of my profiles are available at [https://sanskaarz.carrd.co/](https://sanskaarz.carrd.co/)
+
+- 📫 How to reach me **sanskar786g@gmail.com, @sanskaarz**
 
 
 ## 🌐 Socials:
