@@ -54,6 +54,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sanskaarz&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sanskaarz&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </p>
 
 
