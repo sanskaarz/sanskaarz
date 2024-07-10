@@ -52,7 +52,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 </div>
 
-<h2 align="center">📊 GitHub StatisticS </h2>
+<h2 align="center">📊 GitHub StatisticS 📊</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanskaarz&theme=dark&hide_border=false" alt="GitHub Streak">
 
@@ -65,7 +65,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaarz&theme=white&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Most used languages">
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
   <!-- BLACK GITHUB THROPHIES <img src="https://github-profile-trophy.vercel.app/?username=sanskaarz&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">-->
@@ -73,7 +73,7 @@
 
 </p>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<h3 align="center">✍️ Random Dev Quote ✍️</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Trophies">
 </p>
