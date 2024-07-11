@@ -13,7 +13,7 @@
 - 📫 How to reach me **sanskar786g@gmail.com, @sanskaarz**
 
 
-<h2 align="center">🌐 Socials</h2>
+<h2 align="center">🌐 Socials 🌐</h2>
 <div align="center">
     
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sanskaarz)
@@ -25,7 +25,7 @@
   [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sanskaarz)
 </div>
 
-<h2 align="center">💻 Tech Stacks</h2>
+<h2 align="center">💻 Tech Stacks 💻</h2>
 <div align="center">
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
