@@ -4,6 +4,9 @@
          width="380"  
          height="380"> 
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=5000">
+</p>
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center"><u></u>A passionate developer from India</u></h3>
 </br>
