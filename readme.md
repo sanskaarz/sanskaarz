@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2089743/288046041-20b9cc81-e35b-40c3-90d5-84ad4728b7ff.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240712%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240712T065742Z&X-Amz-Expires=300&X-Amz-Signature=6627fec8d5a01b648a6ea23b78ce7b8a268473516a4b324892e33d4aa69a0677&X-Amz-SignedHeaders=host&actor_id=93852920&key_id=0&repo_id=400294479" 
+    <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" 
          alt="GitHub Logo" 
          width="380"  
          height="380"> 
