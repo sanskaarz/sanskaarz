@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=5000">
 </p>
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
-<h3 align="center"><u></u>A passionate developer from India</u></h3>
+<h3 align="center"><u></u>A passionate developer from India.</u></h3>
 </br>
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaarz" alt="sanskaarz" /></a> </p> -->
@@ -61,7 +61,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 </div>
 
-<h2 align="center">📊 GitHub StatisticS 📊</h2>
+<h2 align="center">📊 GitHub Statistic 📊</h2>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskaarz&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=FCE100&border=FB8C00" alt="GitHub Streak">
 
@@ -76,11 +76,28 @@
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-<p align="center">
-  <!-- BLACK GITHUB THROPHIES <img src="https://github-profile-trophy.vercel.app/?username=sanskaarz&theme=discord&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">-->
-   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskaarz" alt="sanskaarz" /></a>
+<div style='display: flex; align-items:center; gap: 10px;'  align='center'>
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=sanskaarz&margin-w=15&margin-h=15" alt="sanskaarz" />
+   </a>
+</div>
 
-</p>
+
+<h2 align="center"><b>💛GSSOC(24) Badges💛</b></h2>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /></a>
+</div>
 
 <h3 align="center">✍️ Random Dev Quote ✍️</h3>
 <p align="center">
@@ -91,13 +108,12 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sanskaarz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 
+<!--
 <h3 align="center">😂 Random Dev Meme</h3>
-
 <p align="center">
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 </p>
+-->
 
 
 <h3 align="center">Support:</h3>
@@ -107,9 +123,6 @@
   <img src="https://visitcount.itsvg.in/api?id=sanskaarz&label=Weekly%20Profile%20Views&icon=0&color=3" alt="Weekly Profile Views" align="left" style="width: 20%;">
   <img src="https://komarev.com/ghpvc/?username=sanskaarz&label=Total%20Profile%20views&color=0e75b6&style=flat" alt="Total Profile Views" align="right" style="width: 16%;">
 </p>
-
-
-
 
 
 
