@@ -4,8 +4,7 @@
          width="380"  
          height="380"> 
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=5000">
+<p align="center">  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=3000&pause=5000">
 </p>
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center"><u></u>A passionate developer from India.</u></h3>
@@ -62,10 +61,9 @@
 </div>
 
 <h2 align="center">📊 GitHub Statistic 📊</h2>
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sanskaarz&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=FCE100&border=FB8C00" alt="GitHub Streak">
-
-
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sanskaarz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Trophies">
   <br/><br/> -->
